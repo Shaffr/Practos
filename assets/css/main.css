@@ -3989,7 +3989,7 @@
 }
 
 #main{
-	color: black;
+	color: white;
 	margin-bottom: 50px
 }
 
@@ -4000,7 +4000,7 @@
 
 
 .spec-list-block:hover{
-	background-color: white;
+	background-color: black;
 	border-radius: 10px;
 	margin: 0px;
 }
@@ -4058,7 +4058,7 @@
   align-items: center;   
   flex-direction: column;
   width: 70%;
-  color:black;
+  color:white;
   margin-bottom: 100px;
 }
 
